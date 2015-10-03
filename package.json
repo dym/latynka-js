@@ -1,0 +1,29 @@
+{
+  "name": "latynka-js",
+  "version": "0.1.0",
+  "description": "Javascript library for latinization of ukrainian texts",
+  "main": "latynka.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dym/latynka-js.git"
+  },
+  "keywords": [
+    "latynka",
+    "ukrainian",
+    "latinization",
+    "latin"
+  ],
+  "author": "Dmytro Budašný",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dym/latynka-js/issues"
+  },
+  "homepage": "https://github.com/dym/latynka-js#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
