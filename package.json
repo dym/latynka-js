@@ -1,6 +1,6 @@
 {
   "name": "latynka-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Javascript library for latinization of ukrainian texts",
   "main": "latynka.js",
   "scripts": {
