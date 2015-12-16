@@ -1,4 +1,4 @@
-.PHONY: test
+.PHONY: all test
 
 all: test
 

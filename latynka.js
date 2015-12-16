@@ -1,6 +1,6 @@
 module.exports = {
 
-  transliterateText: function transliterate(text, transTable) {
+  transliterateText: function transliterateText(text, transTable) {
     var outputText = '';
 
     var check3 = function check3(index) {
